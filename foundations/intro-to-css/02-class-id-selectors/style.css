@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.odd{
+    background-color: #f7a5a5;
+    font-family:'Verdana','DejaVu Sans',sans-serif;
+}
+
+#Sec
+{
+    color: rgb(5, 5, 172);
+    font-size: 36px;
+}
+
+.odd.tri{
+    font: size 24px;;
+}
+
+#quad{
+    background-color: #18ff18;
+    font-size: 24px;
+    font-weight: bold;
+}
